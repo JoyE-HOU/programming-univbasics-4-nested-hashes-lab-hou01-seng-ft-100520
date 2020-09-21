@@ -16,7 +16,7 @@ def hopper
       }
     }
   
-  puts hopper
+  puts hopper{programmer_hash}
   
 end
 
