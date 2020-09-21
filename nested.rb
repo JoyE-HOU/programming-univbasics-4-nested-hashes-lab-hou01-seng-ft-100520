@@ -15,8 +15,10 @@ def hopper
         :languages => ["C"]
       }
     }
-
-puts programmer_hash
+  end
+  
+  puts programmer_hash
+  
 end
 
 def alan_kay_is_known_for
