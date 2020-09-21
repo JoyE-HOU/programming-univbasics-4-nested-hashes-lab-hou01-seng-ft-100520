@@ -37,7 +37,7 @@ def alan_kay_is_known_for
       }
     }
 
-puts {:alan_kay}
+puts :alan_kay
 
 end
 
